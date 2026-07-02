@@ -74,3 +74,4 @@ finally {
 }
 
 Write-Host ("Done: split {0} lines into {1} files ({2} lines maximum per file)." -f $lineCount, $numberOfFiles, $LinesPerFile)
+#作成者：胡
